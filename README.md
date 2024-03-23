@@ -1,0 +1,1 @@
+Bitcoin Explorer is a handy browser extension that allows you to stay updated on the current price of Bitcoin in US dollars. With this extension, you can easily view the Bitcoin price directly from your browser's toolbar, and even explore more details about Bitcoin through a single click.
